@@ -374,7 +374,6 @@ body{
     font-size: 18px;
     background: rgba(55,131,245,1);
     background: -moz-linear-gradient(left, rgba(55,131,245,1) 0%, rgba(0,161,254,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(55,131,245,1)), color-stop(100%, rgba(0,161,254,1)));
     background: -webkit-linear-gradient(left, rgba(55,131,245,1) 0%, rgba(0,161,254,1) 100%);
     background: -o-linear-gradient(left, rgba(55,131,245,1) 0%, rgba(0,161,254,1) 100%);
     background: -ms-linear-gradient(left, rgba(55,131,245,1) 0%, rgba(0,161,254,1) 100%);
